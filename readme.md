@@ -1121,11 +1121,11 @@ Full documentation can be found here:
 
 ![EE Logo](images/EE%20Logo.png)
 
-[Callback functions in Microsoft Access VBA. Part 1](https://www.experts-exchange.com/articles/35774)
+[Callback functions in Microsoft Access VBA. Part 1](https://www.experts-exchange.com/articles/35774/Callback-functions-in-Microsoft-Access-VBA-Part-1.html?preview=KkyJtTCvMUs%3D)
 
-[Callback functions in Microsoft Access VBA. Part 2](https://www.experts-exchange.com/articles/35775)
+[Callback functions in Microsoft Access VBA. Part 2](https://www.experts-exchange.com/articles/35775/Callback-functions-in-Microsoft-Access-VBA-Part-2.html?preview=JMlJWy4P1h0%3D)
 
-[Callback functions in Microsoft Access VBA. Part 3](https://www.experts-exchange.com/articles/35776)
+[Callback functions in Microsoft Access VBA. Part 3](https://www.experts-exchange.com/articles/35776/Callback-functions-in-Microsoft-Access-VBA-Part-3.html?preview=1xo%2BP1MMh3w%3D)
 
 ---
 
