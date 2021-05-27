@@ -28,7 +28,7 @@ Option Explicit
     ' or selecting a value may take an unacceptable time.
     ' ----------------------------------------------------------
     ' Maximum count of rows.
-    Public Const MaximumRowCount        As Long = 65534
+    Public Const MaximumRowCount        As Long = 65536
     ' Minimum count of rows.
     Public Const MinimumRowCount        As Long = 1
     
